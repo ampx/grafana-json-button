@@ -1,0 +1,34 @@
+{
+  "type": "panel",
+  "name": "Button",
+  "id": "json-button",
+  "info": {
+    "description": "Button for Simple-Json backend",
+    "author": {
+      "name": "AMPX",
+      "url": "github.com/ampx"
+    },
+    "keywords": ["button", "control", "input"],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "github.com/ampx/grafana-json-button"
+      },
+      {
+        "name": "License",
+        "url": "github.com/ampx/grafana-json-button/blob/master/LICENSE"
+      }
+    ],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaDependency": ">=7.0.0",
+    "plugins": []
+  }
+}

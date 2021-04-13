@@ -1,0 +1,30 @@
+{
+  "name": "ampx-json-button",
+  "version": "0.0.1",
+  "description": "Grafana Button Control Panel",
+  "scripts": {
+    "build": "grafana-toolkit plugin:build",
+    "test": "grafana-toolkit plugin:test",
+    "dev": "grafana-toolkit plugin:dev",
+    "watch": "grafana-toolkit plugin:dev --watch"
+  },
+  "repository": "github:ampx/grafana-json-button",
+  "author": "ampx",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "",
+    "email": "working1634@gmail.com"
+  },
+  "devDependencies": {
+    "@grafana/data": "next",
+    "@grafana/runtime": "next",
+    "@grafana/toolkit": "next",
+    "@grafana/ui": "next",
+    "@types/enzyme": "^3.10.5",
+    "@types/enzyme-adapter-react-16": "^1.0.6",
+    "@types/jest": "^25.2.3",
+    "emotion": "10.0.27",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "1.15.2"
+  }
+}

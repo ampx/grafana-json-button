@@ -7,6 +7,7 @@ git clone https://github.com/ampx/grafana-json-button
 cd grafana-json-button/
 yarn install
 yarn build
+rm -rf coverage/ node_modules/
 ```
 
 install:

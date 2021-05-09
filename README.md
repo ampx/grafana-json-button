@@ -1,3 +1,7 @@
+# NOTE:
+
+This project is a spinoff from [speakyourcode](https://github.com/speakyourcode/) project - [grafana-button-panel](https://github.com/speakyourcode/grafana-button-panel) . This updated plugin has been made compatible with Grafana JSON plugin, with potential more changes incoming. 
+
 # grafana-json-button
 
 build latest:
